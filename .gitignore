@@ -1,3 +1,8 @@
+## Ignore these files and folders
+/data
+/output
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
